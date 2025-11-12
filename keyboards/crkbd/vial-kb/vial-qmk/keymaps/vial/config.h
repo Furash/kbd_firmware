@@ -14,3 +14,7 @@
 
 // Enable double-tap Left Shift to activate Caps Word
 #define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
+// Enable split keyboard synchronization for RGB matrix and layers
+#define SPLIT_LAYER_STATE_ENABLE
+#define SPLIT_LED_STATE_ENABLE
